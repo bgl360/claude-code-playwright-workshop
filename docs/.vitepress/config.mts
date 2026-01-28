@@ -57,13 +57,13 @@ export default defineConfig({
               { text: 'Generate a Login Fixture', link: '/3.1-exercise-generate-login-fixture' }
             ]
           },
-          // {
-          //   text: '4: The Agent Pattern',
-          //   link: '/4-planner-generator-healer',
-          //   items: [
-          //     { text: 'Test Agents in Actions', link: '/4.1-exercise-planner-generator-healer' }
-          //   ]
-          // },
+          {
+            text: '4: The Agent Pattern',
+            link: '/4-planner-generator-healer',
+            items: [
+              { text: 'Test Agents in Actions', link: '/4.1-exercise-planner-generator-healer' }
+            ]
+          },
           // {
           //   text: '5: Playwright Trace Viewer',
           //   link: '/5-analyze-source-code',
