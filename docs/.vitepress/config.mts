@@ -64,13 +64,13 @@ export default defineConfig({
               { text: 'Test Agents in Actions', link: '/4.1-exercise-planner-generator-healer' }
             ]
           },
-          // {
-          //   text: '5: Playwright Trace Viewer',
-          //   link: '/5-analyze-source-code',
-          //   items: [
-          //     { text: 'Testing via Code Analysis', link: '/5.1-exercise-analyze-source-code' }
-          //   ]
-          // },
+          {
+            text: '5: Playwright Trace Viewer',
+            link: '/5-analyze-source-code',
+            items: [
+              { text: 'Testing via Code Analysis', link: '/5.1-exercise-analyze-source-code' }
+            ]
+          },
           // {
           //   text: 'Questions & Answers',
           //   link: '/6-questions-and-answers'
