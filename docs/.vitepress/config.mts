@@ -43,13 +43,13 @@ export default defineConfig({
               { text: 'Create a Playwright Project', link: '/1.1-exercise-create-playwright-project' }
             ]
           },
-          // {
-          //    text: '2: What are MCP Tools?',
-          //    link: '/2-explore-sd360-login',
-          //    items: [
-          //      { text: 'Explore the Login UI', link: '/2.1-exercise-explore-sd360-login' }
-          //    ]
-          // },
+          {
+             text: '2: What are MCP Tools?',
+             link: '/2-explore-sd360-login',
+             items: [
+               { text: 'Explore the Login UI', link: '/2.1-exercise-explore-sd360-login' }
+             ]
+          },
           // {
           //   text: '3: What is a Fixture?',
           //   link: '/3-create-login-fixture',
