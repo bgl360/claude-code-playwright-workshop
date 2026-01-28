@@ -71,18 +71,18 @@ export default defineConfig({
               { text: 'Testing via Code Analysis', link: '/5.1-exercise-analyze-source-code' }
             ]
           },
-          // {
-          //   text: 'Questions & Answers',
-          //   link: '/6-questions-and-answers'
-          // },
-          // {
-          //   text: 'Quiz Competition',
-          //   link: '/7-quiz-competition'
-          // },
-          // {
-          //   text: 'Thank You',
-          //   link: '/8-thank-you'
-          // }
+          {
+            text: 'Questions & Answers',
+            link: '/6-questions-and-answers'
+          },
+          {
+            text: 'Quiz Competition',
+            link: '/7-quiz-competition'
+          },
+          {
+            text: 'Thank You',
+            link: '/8-thank-you'
+          }
         ]
       },
       {
