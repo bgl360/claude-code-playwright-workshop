@@ -37,7 +37,7 @@ Each module includes:
 git clone https://github.com/bgl360/claude-code-playwright-workshop.git
 
 # Navigate to the project
-cd claude-code-playwright-workshop-site
+cd claude-code-playwright-workshop
 
 # Install dependencies
 npm install
@@ -65,7 +65,7 @@ npm run docs:preview
 ## 📁 Project Structure
 
 ```
-claude-code-playwright-workshop-site/
+claude-code-playwright-workshop/
 ├── docs/                           # Workshop content
 │   ├── .vitepress/                 # VitePress configuration
 │   │   ├── config.mts              # Site config (nav, sidebar, etc.)

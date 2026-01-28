@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Claude Code in Playwright",
-  base: '/claude-code-playwright-workshop-site/',
+  base: '/claude-code-playwright-workshop/',
   head: [
     [
       'style',
