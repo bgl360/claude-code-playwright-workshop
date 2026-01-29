@@ -9,7 +9,9 @@ Each workshop participant should pick one unique user account from the list belo
 
 ## Available Accounts
 
+**Please contact David Feng for login credentials.**
+
 Select one account from the list below:
 
-| Account Number | Username | Password | TOTP Key |
-|----------------|----------|----------|----------|
+| Username | Password | TOTP Key |
+|----------|----------|----------|
